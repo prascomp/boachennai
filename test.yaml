@@ -1,5 +1,5 @@
 --- # myfirst yaml...
- - hosts: boa
+ - hosts: all
    remote_user: ansible
    become: yes
    become_method: sudo
